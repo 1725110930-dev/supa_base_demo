@@ -1,0 +1,5 @@
+gunicorn==26.2.0
+supabase==2.33.0
+supabase-auth==2.33.0
+supabase-functions==2.33.0
+web-py==0.76
